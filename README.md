@@ -12,7 +12,13 @@
 
 ## 🇬🇧 English
 
-.NET Backend Developer working toward Software Architecture and AI Engineering.
+**Backend engineer building reliable systems for real-world logistics, growing into Software Architecture and AI Engineering.**
+
+### Currently
+
+- 🔧 **Building:** backend solutions for warehouse management systems at Mecalux
+- 📚 **Learning:** AI-powered software architecture, via the [Máster de Desarrollo con IA](https://thebigschool.com/master-desarrollo-con-ia/) at Big School
+- 🤝 **Open to:** new opportunities as a Backend / Fullstack Developer, moving toward Software Architect / AI Engineer roles
 
 ### Experience
 
@@ -22,13 +28,16 @@ Logistics sector. Developing and maintaining backend solutions for warehouse man
 ### Education
 
 **Bachelor's in Computer Engineering** — Universidad Pontificia de Salamanca · *2025*
-**Máster de Desarrollo con IA** — Big School · *Ongoing* ([program details](https://thebigschool.com/master-desarrollo-con-ia/))
+**Máster de Desarrollo con IA** — Big School · *Ongoing*
 
 ### Skills
 
-| Backend | Frontend / Mobile | Data | Tools |
-|---|---|---|---|
-| C# · .NET · Java · Python | Angular · JavaScript · HTML · CSS · Flutter · Dart | PostgreSQL · MongoDB | Git · GitHub |
+| Area | Stack |
+|---|---|
+| Backend | `C#`, `.NET`, `Java`, `Python`, `SQL` |
+| Frontend / Mobile | `Angular`, `JavaScript`, `Flutter`, `Dart` |
+| Data | `PostgreSQL`, `MongoDB` |
+| Tools | `Git`, `GitHub` |
 
 ### Featured project
 
@@ -38,17 +47,19 @@ Logistics sector. Developing and maintaining backend solutions for warehouse man
 
 Cross-platform (Flutter) editor for building Lancer TTRPG content packs — Clean/Hexagonal architecture, 382+ tests, CI/CD. [Live demo →](https://1dardo1.github.io/lcp-builder/)
 
-### Contact
-
-Full portfolio, all projects, and a contact form: **[1dardo1.github.io](https://1dardo1.github.io)**
-
 <br />
 
 ---
 
 ## 🇪🇸 Español
 
-Backend Developer .NET con rumbo hacia Arquitectura de Software e Ingeniería de IA.
+**Ingeniero backend construyendo sistemas fiables para logística real, con rumbo hacia Arquitectura de Software e Ingeniería de IA.**
+
+### Ahora mismo
+
+- 🔧 **Construyendo:** soluciones backend para sistemas de gestión de almacenes en Mecalux
+- 📚 **Aprendiendo:** arquitectura de software potenciada por IA, en el [Máster de Desarrollo con IA](https://thebigschool.com/master-desarrollo-con-ia/) de Big School
+- 🤝 **Abierto a:** nuevas oportunidades como Backend / Fullstack Developer, con rumbo hacia Arquitecto de Software / Ingeniero de IA
 
 ### Experiencia
 
@@ -58,18 +69,17 @@ Sector logístico. Desarrollo y mantenimiento de soluciones backend para sistema
 ### Formación
 
 **Grado en Ingeniería Informática** — Universidad Pontificia de Salamanca · *2025*
-**Máster de Desarrollo con IA** — Big School · *En curso* ([detalles del programa](https://thebigschool.com/master-desarrollo-con-ia/))
+**Máster de Desarrollo con IA** — Big School · *En curso*
 
 ### Skills
 
-| Backend | Frontend / Mobile | Datos | Herramientas |
-|---|---|---|---|
-| C# · .NET · Java · Python | Angular · JavaScript · HTML · CSS · Flutter · Dart | PostgreSQL · MongoDB | Git · GitHub |
+| Área | Stack |
+|---|---|
+| Backend | `C#`, `.NET`, `Java`, `Python`, `SQL` |
+| Frontend / Mobile | `Angular`, `JavaScript`, `Flutter`, `Dart` |
+| Datos | `PostgreSQL`, `MongoDB` |
+| Herramientas | `Git`, `GitHub` |
 
 ### Proyecto destacado
 
 **[LCP Builder](https://github.com/1dardo1/lcp-builder)** — editor multiplataforma (Flutter) para crear paquetes de contenido del TTRPG Lancer. Arquitectura Clean/Hexagonal, 382+ tests, CI/CD. [Ver demo →](https://1dardo1.github.io/lcp-builder/)
-
-### Contacto
-
-Portafolio completo, todos los proyectos y formulario de contacto: **[1dardo1.github.io](https://1dardo1.github.io)**
