@@ -14,9 +14,21 @@
 
 .NET Backend Developer working toward Software Architecture and AI Engineering.
 
-- 💼 **.NET Backend Developer** at **Mecalux** (logistics sector)
-- 🎓 Computer Engineer (Universidad Pontificia de Salamanca) · currently studying the [Máster de Desarrollo con IA](https://thebigschool.com/master-desarrollo-con-ia/) at Big School
-- 🌐 Full portfolio, projects, and contact form: **[1dardo1.github.io](https://1dardo1.github.io)**
+### Experience
+
+**.NET Backend Developer** — Mecalux · *Feb 2026 – Present*
+Logistics sector. Developing and maintaining backend solutions for warehouse management systems at real scale.
+
+### Education
+
+**Bachelor's in Computer Engineering** — Universidad Pontificia de Salamanca · *2025*
+**Máster de Desarrollo con IA** — Big School · *Ongoing* ([program details](https://thebigschool.com/master-desarrollo-con-ia/))
+
+### Skills
+
+| Backend | Frontend / Mobile | Data | Tools |
+|---|---|---|---|
+| C# · .NET · Java · Python | Angular · JavaScript · HTML · CSS · Flutter · Dart | PostgreSQL · MongoDB | Git · GitHub |
 
 ### Featured project
 
@@ -26,11 +38,9 @@
 
 Cross-platform (Flutter) editor for building Lancer TTRPG content packs — Clean/Hexagonal architecture, 382+ tests, CI/CD. [Live demo →](https://1dardo1.github.io/lcp-builder/)
 
-### Stack
+### Contact
 
-| Backend | Frontend / Mobile | Data | Tools |
-|---|---|---|---|
-| C# · .NET · Java · Python | Angular · JavaScript · HTML · CSS · Flutter · Dart | PostgreSQL · MongoDB | Git · GitHub |
+Full portfolio, all projects, and a contact form: **[1dardo1.github.io](https://1dardo1.github.io)**
 
 <br />
 
@@ -40,16 +50,26 @@ Cross-platform (Flutter) editor for building Lancer TTRPG content packs — Clea
 
 Backend Developer .NET con rumbo hacia Arquitectura de Software e Ingeniería de IA.
 
-- 💼 **Backend Developer .NET** en **Mecalux** (sector logístico)
-- 🎓 Ingeniero Informático (Universidad Pontificia de Salamanca) · cursando actualmente el [Máster de Desarrollo con IA](https://thebigschool.com/master-desarrollo-con-ia/) en Big School
-- 🌐 Portafolio completo, proyectos y formulario de contacto: **[1dardo1.github.io](https://1dardo1.github.io)**
+### Experiencia
+
+**Backend Developer .NET** — Mecalux · *Feb 2026 – Actualidad*
+Sector logístico. Desarrollo y mantenimiento de soluciones backend para sistemas de gestión de almacenes a escala real.
+
+### Formación
+
+**Grado en Ingeniería Informática** — Universidad Pontificia de Salamanca · *2025*
+**Máster de Desarrollo con IA** — Big School · *En curso* ([detalles del programa](https://thebigschool.com/master-desarrollo-con-ia/))
+
+### Skills
+
+| Backend | Frontend / Mobile | Datos | Herramientas |
+|---|---|---|---|
+| C# · .NET · Java · Python | Angular · JavaScript · HTML · CSS · Flutter · Dart | PostgreSQL · MongoDB | Git · GitHub |
 
 ### Proyecto destacado
 
 **[LCP Builder](https://github.com/1dardo1/lcp-builder)** — editor multiplataforma (Flutter) para crear paquetes de contenido del TTRPG Lancer. Arquitectura Clean/Hexagonal, 382+ tests, CI/CD. [Ver demo →](https://1dardo1.github.io/lcp-builder/)
 
-### Stack
+### Contacto
 
-| Backend | Frontend / Mobile | Datos | Herramientas |
-|---|---|---|---|
-| C# · .NET · Java · Python | Angular · JavaScript · HTML · CSS · Flutter · Dart | PostgreSQL · MongoDB | Git · GitHub |
+Portafolio completo, todos los proyectos y formulario de contacto: **[1dardo1.github.io](https://1dardo1.github.io)**
