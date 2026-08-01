@@ -32,18 +32,25 @@ Logistics sector. Developing and maintaining backend solutions for warehouse man
 
 ### Skills
 
-| Area | Stack |
-|---|---|
-| Backend | `C#`, `.NET`, `Java`, `Python`, `SQL` |
-| Frontend / Mobile | `Angular`, `JavaScript`, `Flutter`, `Dart` |
-| Data | `PostgreSQL`, `MongoDB` |
-| Tools | `Git`, `GitHub` |
+**Backend**
+<img src="https://skillicons.dev/icons?i=cs,dotnet,java,python" alt="Backend skills" />
+
+**Frontend / Mobile**
+<img src="https://skillicons.dev/icons?i=angular,js,flutter,dart" alt="Frontend and mobile skills" />
+
+**Data**
+<img src="https://skillicons.dev/icons?i=postgres,mongodb" alt="Data skills" />
+
+**Tools**
+<img src="https://skillicons.dev/icons?i=git,github" alt="Tools" />
 
 ### Featured project
 
-<a href="https://github.com/1dardo1/lcp-builder">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=1dardo1&repo=lcp-builder&title_color=6366F1&icon_color=22D3EE&text_color=c9d1d9&bg_color=00000000&border_color=6366F1" alt="LCP Builder repo card" />
-</a>
+**[LCP Builder](https://github.com/1dardo1/lcp-builder)**
+
+![Top language](https://img.shields.io/github/languages/top/1dardo1/lcp-builder?style=for-the-badge&color=6366F1&labelColor=1e1b4b)
+![Last commit](https://img.shields.io/github/last-commit/1dardo1/lcp-builder?style=for-the-badge&color=22D3EE&labelColor=1e1b4b)
+![Stars](https://img.shields.io/github/stars/1dardo1/lcp-builder?style=for-the-badge&color=6366F1&labelColor=1e1b4b)
 
 Cross-platform (Flutter) editor for building Lancer TTRPG content packs — Clean/Hexagonal architecture, 382+ tests, CI/CD. [Live demo →](https://1dardo1.github.io/lcp-builder/)
 
@@ -73,13 +80,24 @@ Sector logístico. Desarrollo y mantenimiento de soluciones backend para sistema
 
 ### Skills
 
-| Área | Stack |
-|---|---|
-| Backend | `C#`, `.NET`, `Java`, `Python`, `SQL` |
-| Frontend / Mobile | `Angular`, `JavaScript`, `Flutter`, `Dart` |
-| Datos | `PostgreSQL`, `MongoDB` |
-| Herramientas | `Git`, `GitHub` |
+**Backend**
+<img src="https://skillicons.dev/icons?i=cs,dotnet,java,python" alt="Skills backend" />
+
+**Frontend / Mobile**
+<img src="https://skillicons.dev/icons?i=angular,js,flutter,dart" alt="Skills frontend y mobile" />
+
+**Datos**
+<img src="https://skillicons.dev/icons?i=postgres,mongodb" alt="Skills datos" />
+
+**Herramientas**
+<img src="https://skillicons.dev/icons?i=git,github" alt="Herramientas" />
 
 ### Proyecto destacado
 
-**[LCP Builder](https://github.com/1dardo1/lcp-builder)** — editor multiplataforma (Flutter) para crear paquetes de contenido del TTRPG Lancer. Arquitectura Clean/Hexagonal, 382+ tests, CI/CD. [Ver demo →](https://1dardo1.github.io/lcp-builder/)
+**[LCP Builder](https://github.com/1dardo1/lcp-builder)**
+
+![Lenguaje principal](https://img.shields.io/github/languages/top/1dardo1/lcp-builder?style=for-the-badge&color=6366F1&labelColor=1e1b4b)
+![Último commit](https://img.shields.io/github/last-commit/1dardo1/lcp-builder?style=for-the-badge&color=22D3EE&labelColor=1e1b4b)
+![Estrellas](https://img.shields.io/github/stars/1dardo1/lcp-builder?style=for-the-badge&color=6366F1&labelColor=1e1b4b)
+
+Editor multiplataforma (Flutter) para crear paquetes de contenido del TTRPG Lancer. Arquitectura Clean/Hexagonal, 382+ tests, CI/CD. [Ver demo →](https://1dardo1.github.io/lcp-builder/)
