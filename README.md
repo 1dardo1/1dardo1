@@ -22,13 +22,18 @@
 
 ### Experience
 
-**.NET Backend Developer** — Mecalux · *Feb 2026 – Present*
+**.NET Backend Developer** · Mecalux
+*Feb 2026 – Present*
+
 Logistics sector. Developing and maintaining backend solutions for warehouse management systems at real scale.
 
 ### Education
 
-**Bachelor's in Computer Engineering** — Universidad Pontificia de Salamanca · *2025*
-**Máster de Desarrollo con IA** — Big School · *Ongoing*
+**Bachelor's in Computer Engineering**
+Universidad Pontificia de Salamanca · *2025*
+
+**Máster de Desarrollo con IA**
+Big School · *Ongoing*
 
 ### Skills
 
@@ -70,13 +75,18 @@ Cross-platform (Flutter) editor for building Lancer TTRPG content packs — Clea
 
 ### Experiencia
 
-**Backend Developer .NET** — Mecalux · *Feb 2026 – Actualidad*
+**Backend Developer .NET** · Mecalux
+*Feb 2026 – Actualidad*
+
 Sector logístico. Desarrollo y mantenimiento de soluciones backend para sistemas de gestión de almacenes a escala real.
 
 ### Formación
 
-**Grado en Ingeniería Informática** — Universidad Pontificia de Salamanca · *2025*
-**Máster de Desarrollo con IA** — Big School · *En curso*
+**Grado en Ingeniería Informática**
+Universidad Pontificia de Salamanca · *2025*
+
+**Máster de Desarrollo con IA**
+Big School · *En curso*
 
 ### Skills
 
