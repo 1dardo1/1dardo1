@@ -16,16 +16,6 @@
 
 🤝 **Open to** new opportunities as a Backend / Fullstack Developer, moving toward Software Architect / AI Engineer roles.
 
-### Featured project
-
-**[LCP Builder](https://github.com/1dardo1/lcp-builder)**
-
-![Top language](https://img.shields.io/github/languages/top/1dardo1/lcp-builder?style=for-the-badge&color=6366F1&labelColor=1e1b4b)
-![Last commit](https://img.shields.io/github/last-commit/1dardo1/lcp-builder?style=for-the-badge&color=22D3EE&labelColor=1e1b4b)
-![Stars](https://img.shields.io/github/stars/1dardo1/lcp-builder?style=for-the-badge&color=6366F1&labelColor=1e1b4b)
-
-Cross-platform (Flutter) editor for building Lancer TTRPG content packs — Clean/Hexagonal architecture, 382+ tests, CI/CD. [Live demo →](https://1dardo1.github.io/lcp-builder/)
-
 ### Experience
 
 **.NET Backend Developer** · Mecalux
@@ -55,6 +45,15 @@ Big School · *Ongoing* ([program details](https://thebigschool.com/master-desar
 **Tools**
 <img src="https://skillicons.dev/icons?i=git,github" alt="Tools" />
 
+### Featured project
+
+**[LCP Builder](https://github.com/1dardo1/lcp-builder)**
+
+![Top language](https://img.shields.io/github/languages/top/1dardo1/lcp-builder?style=for-the-badge&color=6366F1&labelColor=1e1b4b)
+![Last commit](https://img.shields.io/github/last-commit/1dardo1/lcp-builder?style=for-the-badge&color=22D3EE&labelColor=1e1b4b)
+
+Cross-platform (Flutter) editor for building Lancer TTRPG content packs — Clean/Hexagonal architecture, 382+ tests, CI/CD. [Live demo →](https://1dardo1.github.io/lcp-builder/)
+
 <br />
 
 ---
@@ -64,16 +63,6 @@ Big School · *Ongoing* ([program details](https://thebigschool.com/master-desar
 **Ingeniero backend construyendo sistemas fiables para logística real, con rumbo hacia Arquitectura de Software e Ingeniería de IA.**
 
 🤝 **Abierto a** nuevas oportunidades como Backend / Fullstack Developer, con rumbo hacia Arquitecto de Software / Ingeniero de IA.
-
-### Proyecto destacado
-
-**[LCP Builder](https://github.com/1dardo1/lcp-builder)**
-
-![Lenguaje principal](https://img.shields.io/github/languages/top/1dardo1/lcp-builder?style=for-the-badge&color=6366F1&labelColor=1e1b4b)
-![Último commit](https://img.shields.io/github/last-commit/1dardo1/lcp-builder?style=for-the-badge&color=22D3EE&labelColor=1e1b4b)
-![Estrellas](https://img.shields.io/github/stars/1dardo1/lcp-builder?style=for-the-badge&color=6366F1&labelColor=1e1b4b)
-
-Editor multiplataforma (Flutter) para crear paquetes de contenido del TTRPG Lancer. Arquitectura Clean/Hexagonal, 382+ tests, CI/CD. [Ver demo →](https://1dardo1.github.io/lcp-builder/)
 
 ### Experiencia
 
@@ -103,3 +92,12 @@ Big School · *En curso* ([detalles del programa](https://thebigschool.com/maste
 
 **Herramientas**
 <img src="https://skillicons.dev/icons?i=git,github" alt="Herramientas" />
+
+### Proyecto destacado
+
+**[LCP Builder](https://github.com/1dardo1/lcp-builder)**
+
+![Lenguaje principal](https://img.shields.io/github/languages/top/1dardo1/lcp-builder?style=for-the-badge&color=6366F1&labelColor=1e1b4b)
+![Último commit](https://img.shields.io/github/last-commit/1dardo1/lcp-builder?style=for-the-badge&color=22D3EE&labelColor=1e1b4b)
+
+Editor multiplataforma (Flutter) para crear paquetes de contenido del TTRPG Lancer. Arquitectura Clean/Hexagonal, 382+ tests, CI/CD. [Ver demo →](https://1dardo1.github.io/lcp-builder/)
