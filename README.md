@@ -68,6 +68,8 @@ My professional goal is to grow into a **Software Architect** or **AI Engineer**
 
 ![Top language](https://img.shields.io/github/languages/top/1dardo1/lcp-builder?style=for-the-badge&color=6366F1&labelColor=1e1b4b)
 ![Last commit](https://img.shields.io/github/last-commit/1dardo1/lcp-builder?style=for-the-badge&color=22D3EE&labelColor=1e1b4b)
+![Architecture](https://img.shields.io/badge/Architecture-Clean%2FHexagonal-6366F1?style=for-the-badge&labelColor=1e1b4b)
+![Tests](https://img.shields.io/badge/Tests-382%2B-22D3EE?style=for-the-badge&labelColor=1e1b4b)
 
 [Code](https://github.com/1dardo1/lcp-builder) · [Live demo](https://1dardo1.github.io/lcp-builder/)
 
@@ -135,6 +137,8 @@ Mi objetivo profesional es evolucionar hacia puestos de **Arquitecto de Software
 
 ![Lenguaje principal](https://img.shields.io/github/languages/top/1dardo1/lcp-builder?style=for-the-badge&color=6366F1&labelColor=1e1b4b)
 ![Último commit](https://img.shields.io/github/last-commit/1dardo1/lcp-builder?style=for-the-badge&color=22D3EE&labelColor=1e1b4b)
+![Arquitectura](https://img.shields.io/badge/Arquitectura-Clean%2FHexagonal-6366F1?style=for-the-badge&labelColor=1e1b4b)
+![Tests](https://img.shields.io/badge/Tests-382%2B-22D3EE?style=for-the-badge&labelColor=1e1b4b)
 
 [Código](https://github.com/1dardo1/lcp-builder) · [Ver demo](https://1dardo1.github.io/lcp-builder/)
 
