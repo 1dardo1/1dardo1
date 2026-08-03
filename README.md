@@ -34,17 +34,27 @@ My professional goal is to grow into a **Software Architect** or **AI Engineer**
 **Backend**
 <img src="https://skillicons.dev/icons?i=cs,dotnet,java,python" alt="Backend stack" />
 
+*C# · .NET · Java · Python · SQL*
+
 **Frontend**
 <img src="https://skillicons.dev/icons?i=angular,js,html,css" alt="Frontend stack" />
+
+*Angular · JavaScript · HTML5 · CSS3*
 
 **Cross-platform**
 <img src="https://skillicons.dev/icons?i=flutter,dart" alt="Cross-platform stack" />
 
+*Flutter · Dart*
+
 **Databases**
 <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" alt="Databases stack" />
 
+*PostgreSQL · MySQL · MongoDB*
+
 **Tools**
-<img src="https://skillicons.dev/icons?i=git,github,azure" alt="Git, GitHub, Azure DevOps" />
+<img src="https://skillicons.dev/icons?i=git,github,azure,swift" alt="Git, GitHub, Azure DevOps, Swift" />
+
+*Git · GitHub · Azure DevOps · Swift*
 
 **Currently learning**
 
@@ -91,17 +101,27 @@ Mi objetivo profesional es evolucionar hacia puestos de **Arquitecto de Software
 **Backend**
 <img src="https://skillicons.dev/icons?i=cs,dotnet,java,python" alt="Stack backend" />
 
+*C# · .NET · Java · Python · SQL*
+
 **Frontend**
 <img src="https://skillicons.dev/icons?i=angular,js,html,css" alt="Stack frontend" />
+
+*Angular · JavaScript · HTML5 · CSS3*
 
 **Multiplataforma**
 <img src="https://skillicons.dev/icons?i=flutter,dart" alt="Stack multiplataforma" />
 
+*Flutter · Dart*
+
 **Bases de datos**
 <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" alt="Stack bases de datos" />
 
+*PostgreSQL · MySQL · MongoDB*
+
 **Herramientas**
-<img src="https://skillicons.dev/icons?i=git,github,azure" alt="Herramientas" />
+<img src="https://skillicons.dev/icons?i=git,github,azure,swift" alt="Git, GitHub, Azure DevOps, Swift" />
+
+*Git · GitHub · Azure DevOps · Swift*
 
 **Actualmente aprendiendo**
 
