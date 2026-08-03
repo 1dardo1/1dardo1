@@ -46,7 +46,11 @@ My professional goal is to grow into a **Software Architect** or **AI Engineer**
 **Tools**
 <img src="https://skillicons.dev/icons?i=git,github,azure" alt="Git, GitHub, Azure DevOps" />
 
-**Currently learning** — self-taught: `Docker` · via the [Máster de Desarrollo con IA](https://thebigschool.com/master-desarrollo-con-ia/): `Software Architecture` `AI-assisted development` `AI-assisted testing & code review` `Infrastructure & Cloud` `Security`
+**Currently learning**
+
+*Self-taught:* `Docker` `Cross-platform development`
+
+*Via the [Máster de Desarrollo con IA](https://thebigschool.com/master-desarrollo-con-ia/):* `Software Architecture` `AI-assisted development` `AI-assisted testing & code review` `Infrastructure & Cloud` `Security`
 
 ### Featured project
 
@@ -99,7 +103,11 @@ Mi objetivo profesional es evolucionar hacia puestos de **Arquitecto de Software
 **Herramientas**
 <img src="https://skillicons.dev/icons?i=git,github,azure" alt="Herramientas" />
 
-**Actualmente aprendiendo** — autoaprendizaje: `Docker` · a través del [Máster de Desarrollo con IA](https://thebigschool.com/master-desarrollo-con-ia/): `Arquitectura de Software` `Desarrollo asistido por IA` `Pruebas y revisión de código asistidas por IA` `Infraestructura y Cloud` `Seguridad`
+**Actualmente aprendiendo**
+
+*Autoaprendizaje:* `Docker` `Desarrollo multiplataforma`
+
+*A través del [Máster de Desarrollo con IA](https://thebigschool.com/master-desarrollo-con-ia/):* `Arquitectura de Software` `Desarrollo asistido por IA` `Pruebas y revisión de código asistidas por IA` `Infraestructura y Cloud` `Seguridad`
 
 ### Proyecto destacado
 
