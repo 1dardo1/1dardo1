@@ -34,7 +34,7 @@ My professional goal is to grow into a **Software Architect** or **AI Engineer**
 **Backend**
 <img src="https://skillicons.dev/icons?i=cs,dotnet,java,python" alt="Backend stack" />
 
-*C# · .NET · Java · Python · SQL*
+*C# · .NET · Java · Python*
 
 **Frontend**
 <img src="https://skillicons.dev/icons?i=angular,js,html,css" alt="Frontend stack" />
@@ -101,7 +101,7 @@ Mi objetivo profesional es evolucionar hacia puestos de **Arquitecto de Software
 **Backend**
 <img src="https://skillicons.dev/icons?i=cs,dotnet,java,python" alt="Stack backend" />
 
-*C# · .NET · Java · Python · SQL*
+*C# · .NET · Java · Python*
 
 **Frontend**
 <img src="https://skillicons.dev/icons?i=angular,js,html,css" alt="Stack frontend" />
