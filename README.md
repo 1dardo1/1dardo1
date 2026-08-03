@@ -14,7 +14,7 @@ I build reliable backend software and clean interfaces — <strong>.NET, Java, a
 
 ## 🇬🇧 English
 
-### About
+### About Me
 
 I'm a Computer Engineer from Universidad Pontificia de Salamanca. I currently work as a **.NET Backend Developer at Mecalux**, in the logistics sector, developing and maintaining backend solutions for warehouse management systems at real scale.
 
@@ -31,13 +31,20 @@ My professional goal is to grow into a **Software Architect** or **AI Engineer**
 
 ### Stack
 
-- **Backend** · `C# / .NET` `Java` `Python` `SQL`
-- **Frontend** · `Angular` `JavaScript` `HTML5` `CSS3`
-- **Cross-platform** · `Flutter / Dart` `iOS` `Android` `macOS` `Linux` `Windows`
-- **Databases** · `PostgreSQL` `MySQL` `MongoDB`
-- **Tools** · `Git` `GitHub`
+**Backend**
+<img src="https://skillicons.dev/icons?i=cs,dotnet,java,python" alt="Backend stack" />
 
-<img src="https://skillicons.dev/icons?i=cs,dotnet,java,python,angular,js,html,css,flutter,dart,postgres,mysql,mongodb,git,github" alt="Stack icons" />
+**Frontend**
+<img src="https://skillicons.dev/icons?i=angular,js,html,css" alt="Frontend stack" />
+
+**Cross-platform**
+<img src="https://skillicons.dev/icons?i=flutter,dart" alt="Cross-platform stack" />
+
+**Databases**
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" alt="Databases stack" />
+
+**Tools**
+<img src="https://skillicons.dev/icons?i=git,github" alt="Tools" />
 
 **Currently learning** — self-taught: `Docker` · via the [Máster de Desarrollo con IA](https://thebigschool.com/master-desarrollo-con-ia/): `Software Architecture` `AI-assisted development` `AI-assisted testing & code review` `Infrastructure & Cloud` `Security`
 
@@ -77,13 +84,20 @@ Mi objetivo profesional es evolucionar hacia puestos de **Arquitecto de Software
 
 ### Stack
 
-- **Backend** · `C# / .NET` `Java` `Python` `SQL`
-- **Frontend** · `Angular` `JavaScript` `HTML5` `CSS3`
-- **Multiplataforma** · `Flutter / Dart` `iOS` `Android` `macOS` `Linux` `Windows`
-- **Bases de datos** · `PostgreSQL` `MySQL` `MongoDB`
-- **Herramientas** · `Git` `GitHub`
+**Backend**
+<img src="https://skillicons.dev/icons?i=cs,dotnet,java,python" alt="Stack backend" />
 
-<img src="https://skillicons.dev/icons?i=cs,dotnet,java,python,angular,js,html,css,flutter,dart,postgres,mysql,mongodb,git,github" alt="Iconos de stack" />
+**Frontend**
+<img src="https://skillicons.dev/icons?i=angular,js,html,css" alt="Stack frontend" />
+
+**Multiplataforma**
+<img src="https://skillicons.dev/icons?i=flutter,dart" alt="Stack multiplataforma" />
+
+**Bases de datos**
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" alt="Stack bases de datos" />
+
+**Herramientas**
+<img src="https://skillicons.dev/icons?i=git,github" alt="Herramientas" />
 
 **Actualmente aprendiendo** — autoaprendizaje: `Docker` · a través del [Máster de Desarrollo con IA](https://thebigschool.com/master-desarrollo-con-ia/): `Arquitectura de Software` `Desarrollo asistido por IA` `Pruebas y revisión de código asistidas por IA` `Infraestructura y Cloud` `Seguridad`
 
