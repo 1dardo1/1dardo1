@@ -16,13 +16,13 @@ I build reliable backend software and clean interfaces — <strong>.NET, Java, a
 
 ### About Me
 
-I'm a Computer Engineer from Universidad Pontificia de Salamanca. I currently work as a **.NET Backend Developer at Mecalux** (since February 2026 — 6 months and counting), in the logistics sector, developing and maintaining backend solutions for warehouse management systems at real scale.
+I'm a Computer Science and Engineering graduate from Universidad Pontificia de Salamanca. I currently work as a **.NET Backend Developer at Mecalux** (since February 2026 — 6 months and counting), in the logistics sector, developing and maintaining backend solutions for warehouse management systems at real scale.
 
 My professional goal is to grow into a **Software Architect** or **AI Engineer** role. To that end, I'm studying the [AI-Powered Software Development Master's Degree](https://thebigschool.com/master-desarrollo-con-ia/) (Máster de Desarrollo con IA) at Big School.
 
 **Education**
 
-- Bachelor's in Computer Engineering — Universidad Pontificia de Salamanca · *2025*
+- Bachelor's in Computer Science and Engineering — Universidad Pontificia de Salamanca · *2025*
 - AI-Powered Software Development Master's Degree — Big School · *Ongoing*
 
 **Languages**
