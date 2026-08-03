@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:22D3EE&height=180&section=header&text=Carlos%20Mart%C3%ADn%20Vel%C3%A1zquez&fontSize=38&fontColor=ffffff&fontAlignY=38&desc=Backend%20%2F%20Fullstack%20Developer&descAlignY=58&descSize=18" width="100%" alt="Header banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:22D3EE&height=180&section=header&text=Backend%20%2F%20Fullstack%20Developer&fontSize=34&fontColor=ffffff&fontAlignY=38&desc=Carlos%20Mart%C3%ADn%20Vel%C3%A1zquez&descAlignY=58&descSize=18" width="100%" alt="Header banner" />
 
 I build reliable backend software and clean interfaces — <strong>.NET, Java, and Angular</strong> — while working toward <strong>Software Architecture and AI Engineering</strong>.
 
